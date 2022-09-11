@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Title",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjrgJRgJiDK4UTY94yA71lI-0PWTLxoNr6I1fOC8qqWQ&s",
+        "made_by": "username 1",
+        "comment": "some comment",
+        "like_count": 0
+    },
+    {
+        "id": 2,
+        "title": "Title 2",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlStdh0Y_i4bG5HkwPFyunORmBRjSLn9xBUeHS1hdYoA&s",
+        "made_by": "username 2",
+        "comment": "some longer comment",
+        "like_count": 0
+    },
+    {
+        "id": 3,
+        "title": "A much Longer Title 3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjDnIKXw1fbMP97ooGf8JR8D_MU1tbjeGU3SVfMgu8&s",
+        "made_by": "a much longer username 3",
+        "comment": "some other comment",
+        "like_count": 0
+    }
+]
